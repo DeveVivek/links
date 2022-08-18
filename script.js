@@ -95,6 +95,8 @@ const links = [
     },
     
     {
+
+        
         name: 'Telegram',
         description: 'Connect with me directly',
         url: 'https://t.me/devevivek',
@@ -105,7 +107,7 @@ const links = [
     {
         name: 'Medium',
         description: 'Occasionally Blog on Medium',
-        url: 'medium.com/DeveVivek/',
+        url: 'https://medium.com/@DeveVivek',
         icon: 'fa-brands fa-medium',
         color: '#888'
     },
